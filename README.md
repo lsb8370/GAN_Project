@@ -72,4 +72,11 @@
   http://sketchy.eye.gatech.edu/
     
     
+### 학습 결과
+
+- run/paint/0001_airplane2line_resnet/images 경로에서 학습 추이를 볼 수 있음
+
+➜ 생성자 구조는 resnet을 사용함
+
+    
     
