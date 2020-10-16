@@ -1,6 +1,11 @@
 # GAN_Project
  Game AI 수업 기말과제로 CycleGAN을 사용하여 프로젝트를 진행함
  
+## 코드
+![download](https://user-images.githubusercontent.com/31647736/96221094-e2eb2500-0fc4-11eb-98bf-a8b288d1403f.jpg)
+
+'미술관에 GAN 딥러닝 프로젝트' 의 Cycle GAN 코드에서 Optimizer와 Learning Rate, Generator Filter 값 수정
+ 
 ### 프로젝트 개요
  
 #### 프로젝트 동기
